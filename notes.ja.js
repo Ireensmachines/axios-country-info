@@ -28,3 +28,8 @@ document.getElementById( "search") .addEventListener('click', event => {
     console.log("search query", value)
 
 */
+/* if (countryDetails.currencies.length === 1 ) {
+             console.log("maar 1 currency namelijk " + countryDetails.currencies[0].name)
+         } else if (countryDetails.currencies.length === 2 ) {
+             console.log("er zijn 2 currencies namelijk " + countryDetails.currencies[0].name + " en " + countryDetails.currencies[1].name)
+         }*/
